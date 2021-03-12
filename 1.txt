@@ -1,0 +1,36 @@
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+lo127.0.0.1/8
+lo::1/128
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+eth1fe80::5a69:6cff:fea2:e3d6/64
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+ppp110.28.139.54/30
+ppp1fe80::434:b1ff:febe:b250/64
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+br-lan192.168.1.1/24
+br-lanfe80::5a69:6cff:fea2:e3d6/64
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+/sbin/clnc/Core/CuteBi: line 6: typeset: not found
+✄┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄
+
+✔  clnc 正在运行
+/sbin/clnc/Core/CuteBi: line 6: can't create : nonexistent directory
+
+✄┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄ ┄
+❁ mangle表 PREROUTING链:
+✺ mangle表 CLNC_PREROUTING链:
+❁ nat表 PREROUTING链:
+✺ nat表 CLNC_PREROUTING链:
+❁ mangle表 FORWARD链:
+✺ mangle表 CLNC_FORWARD链:
