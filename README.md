@@ -5,7 +5,7 @@
 # 然后找到 1.txt 内 27行左右的正在运行在 具体哪一行
 # 并修改 3.sh 内27为具体行数
 
-https://github.com/mmmdbybyd/CLNC
+# clnc代码来自https://github.com/mmmdbybyd/CLNC
 
 clnc的自动检测重启功能
 
