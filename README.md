@@ -1,13 +1,21 @@
 # clnc
+
 clnc的自动检测重启功能
 
 使用教程
+
 root@Ruijie:/sbin/clnc# ls
+
 1.txt            clnc_bd.conf     clnc_bdgz.conf   ls               zc.log
+
 2.txt            clnc_bd1.conf    clnc_uc.conf     start.sh
+
 3.sh             clnc_bdbj.conf   clnc_wk.conf     status.sh
+
 Core             clnc_bdcns.conf  config.ini       stop.sh
+
 root@Ruijie:/sbin/clnc# pwd
+
 /sbin/clnc
 
 首先将文件移动至/sbin/clnc目录
