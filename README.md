@@ -15,3 +15,12 @@ clnc的自动检测重启功能
 
 中国 北京 北京 电信220.181.43.12
 
+北京:
+clnc_bdbj.conf
+南京:
+clnc_bd.conf
+clnc_bdcns.conf
+clnc_bd1.conf
+广州
+clnc_bdgz.conf
+
