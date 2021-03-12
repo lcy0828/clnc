@@ -1,4 +1,11 @@
 # clnc
+# 注意此版为路由器or服务器专版
+# 其他版本需自行修改 开启.sh 为 start.sh 状态.sh 为 status.sh
+# 并执行 sh /sbin/clnc/status.sh > /sbin/clnc/1.txt
+# 然后找到 1.txt 内 27行左右的正在运行在 具体哪一行
+# 并修改 3.sh 内27为具体行数
+
+https://github.com/mmmdbybyd/CLNC
 
 clnc的自动检测重启功能
 
