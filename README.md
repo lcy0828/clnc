@@ -31,6 +31,8 @@ root@Ruijie:/sbin/clnc# pwd
 
 */30 * * * * rm -rf /sbin/clnc/*.log &
 
+注意.log 前有个 * 号
+
 */1 * * * * 为每分钟检测一次
 
 */30 * * * * 这行为每30赋值删除一次日志 可以不添加
